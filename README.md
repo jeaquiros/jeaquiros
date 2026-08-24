@@ -32,4 +32,4 @@
 
 ## 📊 GitHub Stats
 
-![Jeannine's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeaquiros&show_icons=true&theme=tokyonight&hide_border=true)
+![Jeannine's GitHub stats](https://github-stats-extended.vercel.app/api?username=jeaquiros&show_icons=true&theme=tokyonight&hide_border=true)
