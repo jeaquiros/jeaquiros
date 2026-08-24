@@ -22,6 +22,10 @@
 ![AutoCAD Civil 3D](https://img.shields.io/badge/AutoCAD%20Civil%203D-E51937?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Agisoft Metashape](https://img.shields.io/badge/Agisoft%20Metashape-1B1F3B?style=for-the-badge)
+![Pix4D](https://img.shields.io/badge/Pix4D-00A19A?style=for-the-badge)
+![DroneDeploy](https://img.shields.io/badge/DroneDeploy-2E8B57?style=for-the-badge)
+![SAS.Planet](https://img.shields.io/badge/SAS.Planet-4B4B4B?style=for-the-badge)
 
 ## 📚 Currently learning
 
