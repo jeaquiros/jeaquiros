@@ -4,7 +4,7 @@
 - 🗺️ Database Administrator & GIS Engineer 
 - 🐍 Automating geospatial workflows with Python and ArcPy
 - 📐 Background spanning UAV photogrammetry to corporate geodatabase administration in PostgreSQL
-- 🎓 Finishing my Bachelor's Degree in Software Development (UTP)
+- 🎓 Finishing my Bachelor's Degree in Software Development
 - 🚀 Currently building personal projects to go deeper into GIS automation applied to the energy and utilities sector
 
 ## 📫 How to reach me
