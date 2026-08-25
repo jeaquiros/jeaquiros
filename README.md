@@ -29,7 +29,7 @@
 
 ## 📚 Currently learning
 
-![Git & GitHub advanced](https://img.shields.io/badge/Git%20%26%20GitHub%20advanced-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!--![Git & GitHub advanced](https://img.shields.io/badge/Git%20%26%20GitHub%20advanced-F05032?style=for-the-badge&logo=git&logoColor=white)-->
 ![ArcGIS Enterprise](https://img.shields.io/badge/ArcGIS%20Enterprise-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![FME](https://img.shields.io/badge/FME-EE7D30?style=for-the-badge&logo=safe&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
